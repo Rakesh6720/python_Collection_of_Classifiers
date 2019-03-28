@@ -1,4 +1,4 @@
-# python_Collection_of_Classifiers
+<p class=font-size: 9px># python_Collection_of_Classifiers</p>
 <h2>Python program testing 4 different Sci-Kit Classifiers on a data set.</h2>
 
 In this project I've taken an arbitrary dataset of a group of people's measurements, put them in a 4 x 3 matrix of Vector3 values, and created a predictive model based on gender attribute.  The 5 classifiers used are:
