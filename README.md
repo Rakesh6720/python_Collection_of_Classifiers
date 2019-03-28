@@ -20,7 +20,7 @@ A supervised learning model that uses training data to classify examples to cate
 
 <h3><b>Multilayer Perceptron</h3></b>
 Supervised learning that uses backpropagation to fix errors as it trains on data.  Stochastic Gradient DEscent and Backpropagation are the de facto models for neural networks.  
-*Surprisingly prone to overfitting at an alpha value below 5.  I speculate because the data set was so small having heigher value for weights as alpha parameter in the MLP method the result skewed.  This was the only classifier to incorrectly classify the test data.  
+<br><em>*Surprisingly prone to overfitting at an alpha value below 5.  I speculate because the data set was so small having heigher value for weights as alpha parameter in the MLP method the result skewed.  This was the only classifier to incorrectly classify the test data.</em>
 
 <h3><b>AdaBoost</h3></b>
 Fits a classifier to a data set repeatedly, honing in on the hard to crack problems.  Tweaks "weak learners" into combined weighted sum that reflects a BOOST.  
