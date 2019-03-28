@@ -3,7 +3,7 @@ Python program testing 4 different Sci-Kit Classifiers on a data set.
 
 In this project I've taken an arbitrary dataset of a group of people's measurements, put them in a 4 x 3 matrix of Vector3 values, and created a predictive model based on gender attribute.  The 5 classifiers used are:
 
-Decision Tree
+<em>Decision Tree</em>
 Supervised, greedy, heuristic model using the ID3 algorithm to separate elements of a set by decreasing amounts of entropy.  Similar members of class form subsets in leaves edges of which determine the rules of classification.  
 
 K Nearest Neighbors
