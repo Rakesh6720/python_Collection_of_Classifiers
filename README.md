@@ -1,15 +1,17 @@
 # python_Collection_of_Classifiers
-Python program testing 4 different Sci-Kit Classifiers on a data set.
+<h2>Python program testing 4 different Sci-Kit Classifiers on a data set.</h2>
 
 In this project I've taken an arbitrary dataset of a group of people's measurements, put them in a 4 x 3 matrix of Vector3 values, and created a predictive model based on gender attribute.  The 5 classifiers used are:
 
+<h3>
 <b>Decision Tree</b>
+</h3>
 Supervised, greedy, heuristic model using the ID3 algorithm to separate elements of a set by decreasing amounts of entropy.  Similar members of class form subsets in leaves edges of which determine the rules of classification.  
 
-K Nearest Neighbors
+<b>K Nearest Neighbors</b>
 Determines the class of an element based on its proximity in value to other members of the class.
 
-Support Vector Machines
+<b>Support Vector Machines<b>
 A supervised learning model that uses training data to classify examples to categories using linear classification in vector space.  I speculate this model could be prone to overfitting on a limited data set.  
 
 Multilayer Perceptron
